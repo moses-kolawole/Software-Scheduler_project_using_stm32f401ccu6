@@ -6,6 +6,8 @@ This project demonstrates a simple software scheduler implemented on the STM32F4
 ## Project Code
 [Click here to check out the project code](code)
 
+## Project images
+![Check out the Project image here](images/IMG_20260724_145223_729.jpg)
 
 ## Final Outcome
 - Three LEDs execute independent periodic tasks.
@@ -18,6 +20,10 @@ This project demonstrates a simple software scheduler implemented on the STM32F4
 - Timer tick interrupt
 - Non-blocking program execution
 - Register-level (Bare-Metal) STM32 programming
+
+## Project Demo Video
+
+[Click here to check out the Demo Video](https://youtube.com/shorts/5fUm4q9-m-U)
 
 ## Hardware Used
 - STM32F401CCU6 Black Pill
